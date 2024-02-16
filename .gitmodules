@@ -4,3 +4,9 @@
 [submodule "PRO192"]
 	path = PRO192
 	url = https://github.com/fptqnk17/PRO192.git
+[submodule "DBI202"]
+	path = DBI202
+	url = https://github.com/fptqnk17/DBI202.git
+[submodule "LAB211"]
+	path = LAB211
+	url = https://github.com/fptqnk17/LAB211.git
