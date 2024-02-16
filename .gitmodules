@@ -19,3 +19,18 @@
 [submodule "PRJ301"]
 	path = PRJ301
 	url = https://github.com/fptqnk17/PRJ301.git
+[submodule "FER202"]
+	path = FER202
+	url = https://github.com/fptqnk17/FER202.git
+[submodule "PRN211"]
+	path = PRN211
+	url = https://github.com/fptqnk17/PRN211.git
+[submodule "SWR302"]
+	path = SWR302
+	url = https://github.com/hardingadonis/SWR302.git
+[submodule "SWP391"]
+	path = SWP391
+	url = https://github.com/hardingadonis/SWP391.git
+[submodule "SWT301"]
+	path = SWT301
+	url = https://github.com/hardingadonis/SWT301.git
