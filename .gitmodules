@@ -10,3 +10,12 @@
 [submodule "LAB211"]
 	path = LAB211
 	url = https://github.com/fptqnk17/LAB211.git
+[submodule "JPD123"]
+	path = JPD123
+	url = https://github.com/fptqnk17/JPD123.git
+[submodule "IOT102"]
+	path = IOT102
+	url = https://github.com/fptqnk17/IOT102.git
+[submodule "PRJ301"]
+	path = PRJ301
+	url = https://github.com/fptqnk17/PRJ301.git
