@@ -1,0 +1,3 @@
+[submodule "PRF192"]
+	path = PRF192
+	url = https://github.com/fptqnk17/PRF192.git
